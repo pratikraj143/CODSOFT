@@ -1,2 +1,2 @@
 # CODSOFT
-My Java internship tasks. 
+My Java internship Projects.
